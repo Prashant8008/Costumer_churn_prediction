@@ -26,3 +26,6 @@ Customer Churn Prediction with Streamlit
    |
    v
 [End]
+
+
+app.py is the main file in which we use to code and deploy the model on web
